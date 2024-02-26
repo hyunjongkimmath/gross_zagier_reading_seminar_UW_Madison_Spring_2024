@@ -9,4 +9,5 @@ Goal: understand things like theta lifting, automorphic Green function, Bruinier
 - [[gross_zagier_reading_seminar_02_05_2024]]
 - [[gross_zagier_reading_seminar_02_12_2024]]
 - [[gross_zagier_reading_seminar_02_19_2024]]
+- [[gross_zager_reading_seminar_02_26_2024]]
 
